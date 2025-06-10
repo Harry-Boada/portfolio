@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# portfolio
+The site was developed following the Mobile First methodology and using modern technologies such as Nuxt 3, TypeScript and Tailwind CSS, and is optimized for efficient web performance (using WebP images and basic SEO).
+>>>>>>> 9b4f708702a63ce766d96c8edaf47e2e0c2862f6
