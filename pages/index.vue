@@ -547,39 +547,6 @@ const form = ref({
   message: ''
 })
 
-// Services data
-const services = ref([
-  {
-    title: 'Web Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    fullDescription: 'Complete web development services including frontend and backend development, responsive design, and modern web technologies.'
-  },
-  {
-    title: '3D Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    fullDescription: 'Professional 3D modeling, rendering, and animation services for web and multimedia projects.'
-  },
-  {
-    title: 'Design Trends',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    fullDescription: 'Stay ahead with the latest design trends and create modern, engaging user experiences.'
-  },
-  {
-    title: 'Customer Support',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    fullDescription: '24/7 customer support and maintenance services to keep your projects running smoothly.'
-  },
-  {
-    title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    fullDescription: 'Complete branding solutions including logo design, brand identity, and marketing materials.'
-  },
-  {
-    title: 'Marketing',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    fullDescription: 'Digital marketing strategies, SEO optimization, and social media management.'
-  }
-])
 
 // Methods
 const toggleMobileMenu = () => {
@@ -646,8 +613,8 @@ const projects: Ref<Project[]> = ref([
     description: "My personal portfolio developed with the Nuxt framework, including JavaScript and a fully responsive design using Tailwind CSS for layout and using the mobile-first methodology..",
     image: "/image/portafolio.webp",
     technologies: ["Nuxt 3", "JavaScript", "TypeScript", "Tailwind CSS"],
-    liveUrl: "https://tu-portfolio.com",
-    githubUrl: "https://github.com/tuusuario/portfolio"
+    liveUrl: "https://portfolio-harrison-boada.netlify.app/",
+    githubUrl: "https://github.com/Harry-Boada/portfolio"
   },
   {
     id: 4,
