@@ -1,7 +1,17 @@
-<<<<<<< HEAD
+# 💼 Portafolio Personal – HEBA
+
+Este es mi portafolio profesional desarrollado con [**Nuxt 3**], usando **TypeScript** y **Tailwind CSS**. (https://www.emailjs.com/) que permite enviar mensajes directamente desde la web, sin necesidad de un backend.
+
+## 🧱 Estructura del proyecto
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+## 🛠️ Tecnologías usadas
+
+- ✅ Nuxt 3 (Vue 3)
+- ✅ TypeScript
+- ✅ Tailwind CSS
 
 ## Setup
 
@@ -73,8 +83,9 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-=======
-# portfolio
-The site was developed following the Mobile First methodology and using modern technologies such as Nuxt 3, TypeScript and Tailwind CSS, and is optimized for efficient web performance (using WebP images and basic SEO).
->>>>>>> 9b4f708702a63ce766d96c8edaf47e2e0c2862f6
+### Instalación
+
+```bash
+npm install @emailjs/browser
+
+
