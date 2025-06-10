@@ -117,7 +117,7 @@
               <div>
                 <p class="text-emerald-400 text-lg mb-2">Who am I?</p>
                 <h2 class="text-3xl md:text-4xl font-bold mb-4">
-                  I'm harrison Esteban Boada Aldana,<br>
+                  I'm Harrison Esteban Boada Aldana,<br>
                   <span class="text-emerald-400"> Frontend Developer Junior</span>
                 </h2>
               </div>
