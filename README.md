@@ -11,6 +11,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 - ✅ Nuxt 3 (Vue 3)
 - ✅ TypeScript
+- ✅ JavaScript
 - ✅ Tailwind CSS
 
 ## Setup
