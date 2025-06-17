@@ -323,13 +323,27 @@
           <div class="bg-gray-900 p-8 rounded-2xl hover:bg-gray-800 transition-all duration-300 group cursor-pointer transform hover:-translate-y-2 hover:shadow-xl"
           >
             <div class="text-emerald-400 mb-6 transform group-hover:scale-110 transition-transform duration-300">
-              <svg width="64px" height="64px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#34D399"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>wordpress [#139]</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Dribbble-Light-Preview" transform="translate(-260.000000, -7559.000000)" fill="#34D399"> <g id="icons" transform="translate(56.000000, 160.000000)"> <path d="M222.775,7404.202 C222.818,7404.521 222.842,7404.862 222.842,7405.23 C222.842,7406.988 222.679,7407.087 219.027,7417.644 C222,7415.91 224,7412.689 224,7409 C224,7407.261 223.556,7405.626 222.775,7404.202 L222.775,7404.202 Z M214.176,7409.875 L211.175,7418.593 C213.2,7419.189 215.346,7419.128 217.321,7418.434 C217.294,7418.391 217.27,7418.345 217.25,7418.296 L214.176,7409.875 Z M220.751,7408.495 C220.751,7407.259 220.307,7406.403 219.926,7405.737 C219.42,7404.913 218.944,7404.216 218.944,7403.392 C218.944,7402.473 219.642,7401.617 220.624,7401.617 C220.668,7401.617 220.71,7401.623 220.753,7401.625 C218.974,7399.995 216.604,7399 214,7399 C210.507,7399 207.433,7400.792 205.645,7403.507 C206.282,7403.527 207.137,7403.535 208.954,7403.393 C209.493,7403.361 209.556,7404.153 209.018,7404.216 C209.018,7404.216 208.476,7404.28 207.873,7404.312 L211.515,7415.144 L213.703,7408.58 L212.145,7404.311 C211.607,7404.28 211.097,7404.216 211.097,7404.216 C210.558,7404.184 210.621,7403.36 211.16,7403.392 C213.227,7403.551 214.285,7403.563 216.459,7403.392 C216.998,7403.36 217.062,7404.152 216.523,7404.216 C216.523,7404.216 215.98,7404.28 215.378,7404.311 L218.992,7415.061 C220.419,7410.293 220.751,7409.495 220.751,7408.495 L220.751,7408.495 Z M204,7409 C204,7412.958 206.3,7416.379 209.636,7418 L204.866,7404.93 C204.311,7406.174 204,7407.55 204,7409 L204,7409 Z" id="wordpress-[#139]"> </path> </g> </g> </g> </g></svg>
+              <svg width="44px" height="44px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#34D399"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>wordpress [#139]</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Dribbble-Light-Preview" transform="translate(-260.000000, -7559.000000)" fill="#34D399"> <g id="icons" transform="translate(56.000000, 160.000000)"> <path d="M222.775,7404.202 C222.818,7404.521 222.842,7404.862 222.842,7405.23 C222.842,7406.988 222.679,7407.087 219.027,7417.644 C222,7415.91 224,7412.689 224,7409 C224,7407.261 223.556,7405.626 222.775,7404.202 L222.775,7404.202 Z M214.176,7409.875 L211.175,7418.593 C213.2,7419.189 215.346,7419.128 217.321,7418.434 C217.294,7418.391 217.27,7418.345 217.25,7418.296 L214.176,7409.875 Z M220.751,7408.495 C220.751,7407.259 220.307,7406.403 219.926,7405.737 C219.42,7404.913 218.944,7404.216 218.944,7403.392 C218.944,7402.473 219.642,7401.617 220.624,7401.617 C220.668,7401.617 220.71,7401.623 220.753,7401.625 C218.974,7399.995 216.604,7399 214,7399 C210.507,7399 207.433,7400.792 205.645,7403.507 C206.282,7403.527 207.137,7403.535 208.954,7403.393 C209.493,7403.361 209.556,7404.153 209.018,7404.216 C209.018,7404.216 208.476,7404.28 207.873,7404.312 L211.515,7415.144 L213.703,7408.58 L212.145,7404.311 C211.607,7404.28 211.097,7404.216 211.097,7404.216 C210.558,7404.184 210.621,7403.36 211.16,7403.392 C213.227,7403.551 214.285,7403.563 216.459,7403.392 C216.998,7403.36 217.062,7404.152 216.523,7404.216 C216.523,7404.216 215.98,7404.28 215.378,7404.311 L218.992,7415.061 C220.419,7410.293 220.751,7409.495 220.751,7408.495 L220.751,7408.495 Z M204,7409 C204,7412.958 206.3,7416.379 209.636,7418 L204.866,7404.93 C204.311,7406.174 204,7407.55 204,7409 L204,7409 Z" id="wordpress-[#139]"> </path> </g> </g> </g> </g></svg>
             </div>
             <h3 class="text-xl font-semibold mb-4 group-hover:text-emerald-400 transition-colors duration-300">
               WordPress
             </h3>
             <p class="text-gray-400 group-hover:text-gray-300 transition-colors duration-300">
               I have skills in web design, which allows me to create attractive, receptive and optimized sites within the WordPress environment.
+            </p>
+          </div>
+
+           <!-- Shopify -->
+          <div class="bg-gray-900 p-8 rounded-2xl hover:bg-gray-800 transition-all duration-300 group cursor-pointer transform hover:-translate-y-2 hover:shadow-xl"
+          >
+            <div class="text-emerald-400 mb-6 transform group-hover:scale-110 transition-transform duration-300">
+              <svg fill="#34D399" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44px" height="44px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g id="c2be471c56fc5b4dd571614bb3052f50"> <path d="M425.228,100.457c0,0-0.425-2.308-1.734-3.144c-1.311-0.836-2.732-0.998-2.732-0.998l-41.082-3.057l-30.228-30.053 c-1.147-0.874-2.471-1.385-3.817-1.66c-3.219-0.624-7.548,0.125-8.347,0.312l-15.682,4.853 c-6.812-20.11-16.118-34.432-27.795-42.716c-8.634-6.101-18.146-8.695-28.363-7.922c-2.146-2.857-4.51-5.352-7.099-7.448 c-11.334-9.157-25.955-10.579-43.446-4.241c-52.454,19.05-74.722,87.029-82.75,120.987L86.437,139.53 c0,0-10.767,3.069-13.293,6.088c-2.775,3.318-3.306,12.301-3.306,12.301l-38.78,299.087L323.215,511.5l157.728-34.133 L425.228,100.457z M263.326,84.763l-50.513,15.632c6.693-26.211,19.555-52.996,44.145-63.438 C262.066,50.331,263.476,68.632,263.326,84.763z M220.897,20.901c10.685-3.88,18.894-3.706,25.069,0.461 c-32.96,15.033-47.351,52.909-53.563,85.357l-40.445,12.525C160.99,86.584,181.144,35.335,220.897,20.901z M249.204,241.318 c-2.314-1.123-5.046-2.321-8.134-3.456c-3.063-1.147-6.475-2.233-10.174-3.131c-3.662-0.898-7.604-1.622-11.758-2.046 c-4.117-0.437-8.44-0.574-12.918-0.312c-4.11,0.25-7.834,0.985-11.109,2.158c-3.256,1.148-6.075,2.745-8.396,4.729 c-2.32,1.971-4.148,4.329-5.439,7.049c-1.279,2.707-2.034,5.751-2.177,9.132c-0.112,2.508,0.281,4.903,1.16,7.235 c0.879,2.346,2.258,4.641,4.129,6.912c1.884,2.295,4.267,4.565,7.167,6.886c2.913,2.358,6.351,4.729,10.317,7.211 c5.564,3.568,11.253,7.585,16.661,12.188c5.489,4.679,10.679,9.956,15.139,15.969c4.517,6.076,8.271,12.888,10.804,20.522 c2.545,7.71,3.849,16.206,3.438,25.562c-0.667,15.308-4.023,28.506-9.569,39.447c-5.477,10.804-13.037,19.287-22.144,25.45 c-8.907,6.013-19.225,9.743-30.446,11.24c-10.897,1.459-22.581,0.811-34.632-1.847c-0.088-0.013-0.188-0.05-0.287-0.075 c-0.094-0.012-0.188-0.037-0.281-0.049c-0.093-0.025-0.187-0.051-0.287-0.075c-0.094-0.013-0.188-0.038-0.287-0.062 c-5.651-1.372-11.104-3.144-16.225-5.228c-5.046-2.033-9.781-4.354-14.097-6.861c-4.254-2.482-8.109-5.14-11.446-7.896 c-3.3-2.732-6.107-5.539-8.309-8.371l13.292-44.113c2.246,1.896,4.99,4.055,8.115,6.237c3.156,2.233,6.706,4.504,10.504,6.637 c3.842,2.146,7.947,4.13,12.17,5.751c4.279,1.635,8.683,2.907,13.049,3.543c3.855,0.562,7.298,0.449,10.311-0.224 c3.038-0.687,5.626-1.946,7.748-3.681c2.133-1.709,3.786-3.893,4.94-6.4c1.154-2.532,1.809-5.364,1.934-8.396 c0.137-3.044-0.138-5.901-0.905-8.671c-0.761-2.781-2.008-5.464-3.799-8.158c-1.791-2.683-4.111-5.377-7.048-8.159 c-2.907-2.757-6.394-5.602-10.523-8.62c-5.084-3.793-9.85-7.897-14.122-12.363c-4.217-4.417-7.959-9.195-11.022-14.372 c-3.031-5.14-5.42-10.691-6.967-16.729c-1.541-6.001-2.251-12.501-1.953-19.587c0.524-11.839,2.889-22.755,6.85-32.573 c4.004-9.931,9.674-18.838,16.785-26.511c7.255-7.822,16.075-14.422,26.242-19.499c10.461-5.228,22.419-8.895,35.674-10.629 c6.15-0.812,12.052-1.186,17.628-1.21c5.664-0.025,10.985,0.312,15.881,0.936c4.965,0.636,9.488,1.559,13.499,2.694 c4.042,1.147,7.548,2.495,10.436,3.967L249.204,241.318z M280.836,79.349c-0.025-1.983-0.075-3.992-0.149-6.038 c-0.587-15.719-2.721-28.956-6.351-39.685c3.955,0.399,7.548,1.709,10.829,4.03c9.145,6.475,15.731,19.511,20.372,34.045 L280.836,79.349z"> </path> </g> </g></svg>
+            </div>
+            <h3 class="text-xl font-semibold mb-4 group-hover:text-emerald-400 transition-colors duration-300">
+              Shopify
+            </h3>
+            <p class="text-gray-400 group-hover:text-gray-300 transition-colors duration-300">
+              I have explored Shopify and am familiar with its features for creating and customizing e-commerce websites.
             </p>
           </div>
 
@@ -539,7 +553,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, onMounted } from 'vue'
 import emailjs from 'emailjs-com';
 
 // Meta tags
@@ -641,6 +655,17 @@ const projects: Ref<Project[]> = ref([
     liveUrl: "https://onpackage.netlify.app/",
     githubUrl: "https://github.com/Harry-Boada/package_managment"
   },
+  {
+  id: 5,
+  title: "Baber Shop Harry",
+  description: "Baber Shop Harry is an website developed using WordPress as part of a personal initiative to provide a modern and accessible digital presence for a barber shop. The goal of the project was to create a clear communication channel for clients, allowing them to view services, schedules, and location details. This development allowed me to apply skills in web design, layout, and WordPress theme customization, optimizing the user experience for both mobile and desktop devices. Additionally, I worked on content structuring and configuring essential plugins to support the site's core functionality.",
+  image: "/image/baber-shop.webp",
+  technologies: ["WordPress"],
+  liveUrl: "https://planinc5.wordpress.com/",
+  githubUrl: ""
+}
+
+
 ])
 
 // ---------------------------- Form Contact me --------------------------------
