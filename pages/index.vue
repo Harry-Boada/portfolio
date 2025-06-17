@@ -663,6 +663,15 @@ const projects: Ref<Project[]> = ref([
   technologies: ["WordPress"],
   liveUrl: "https://planinc5.wordpress.com/",
   githubUrl: ""
+},
+  {
+  "id": 6,
+  "title": "Shopping Backpacks",
+  "description": "Shopping Backpacks is a modern e-commerce website developed using Shopify. This project was created to offer an intuitive and visually appealing online store specializing in high-quality backpacks. The site features a clean design, optimized navigation, and responsive layout for a seamless shopping experience across devices. As part of this project, I customized Shopify themes, managed product listings, and configured essential apps to enhance functionality such as payment integration, inventory tracking, and customer engagement. This experience allowed me to strengthen my skills in e-commerce development, UX/UI design, and Shopify platform management.",
+  "image": "/image/shopift-ecommers.webp",
+  "technologies": ["Shopify"],
+  "liveUrl": "https://shopping-backpacks.myshopify.com/",
+  "githubUrl": ""
 }
 
 
