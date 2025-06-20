@@ -630,7 +630,7 @@ const projects: Ref<Project[]> = ref([
   },
   {
     id: 2,
-    title: "Ecuaciones Diferenciales Project",
+    title: "Development of a mathematics web application",
     description: "This project was developed in the context of a Differential Equations course. The objective was to model and project population growth in the Greater Toronto Area (GTA) using mathematical models based on first-order differential equations. Historical population growth data were collected, and methods such as the logistic model were applied to predict future population trends. The analysis is displayed on an interactive web page, allowing the results to be explored graphically.",
     image: "/image/ecuaciones_diferenciales.webp",
     technologies: ["Vue.js 3", "TypeScript", "Tailwind CSS", "Chart js"],
@@ -656,7 +656,16 @@ const projects: Ref<Project[]> = ref([
     githubUrl: "https://github.com/Harry-Boada/package_managment"
   },
   {
-  id: 5,
+    id: 5,
+    title: "GameStream",
+    description: "GameStream is a web application developed with Vue.js and TypeScript that uses the public GameStreamAPI to display a collection of video games. The application allows users to explore game details, video, ratings, and images through a responsive and dynamic interface. This project helped me strengthen my skills in frontend development, API integration, and component-based architecture in Vue.",
+    image: "/image/game-stream.webp",
+    technologies: ["Vue.js", "JavaScript", "GameStreamAPI"],
+    liveUrl: "https://gamestream-vue-harry.netlify.app/",
+    githubUrl: "https://github.com/Harry-Boada/gamestream-vue"
+  },
+  {
+  id: 6,
   title: "Baber Shop Harry",
   description: "Baber Shop Harry is an website developed using WordPress as part of a personal initiative to provide a modern and accessible digital presence for a barber shop. The goal of the project was to create a clear communication channel for clients, allowing them to view services, schedules, and location details. This development allowed me to apply skills in web design, layout, and WordPress theme customization, optimizing the user experience for both mobile and desktop devices. Additionally, I worked on content structuring and configuring essential plugins to support the site's core functionality.",
   image: "/image/baber-shop.webp",
@@ -665,7 +674,7 @@ const projects: Ref<Project[]> = ref([
   githubUrl: ""
 },
   {
-  "id": 6,
+  "id": 7,
   "title": "Shopping Backpacks",
   "description": "Shopping Backpacks is a modern e-commerce website developed using Shopify. This project was created to offer an intuitive and visually appealing online store specializing in high-quality backpacks. The site features a clean design, optimized navigation, and responsive layout for a seamless shopping experience across devices. As part of this project, I customized Shopify themes, managed product listings, and configured essential apps to enhance functionality such as payment integration, inventory tracking, and customer engagement. This experience allowed me to strengthen my skills in e-commerce development, UX/UI design, and Shopify platform management.",
   "image": "/image/shopift-ecommers.webp",
